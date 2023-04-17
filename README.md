@@ -19,10 +19,10 @@ Implement basic funtions for  blog
 <br />
 
 hi, i'm Nhóm 5_T2_Ca4_Test, Đây là btap gửi thầy khoa
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hy vọng được 10 điểm eheheh
 
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:trunghungpq456@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
