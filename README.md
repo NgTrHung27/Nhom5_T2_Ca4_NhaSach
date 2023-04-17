@@ -24,7 +24,6 @@ Hy vọng được 10 điểm eheheh
  <img align="left" width="220px" src="https://i.imgur.com/KVtlCFJ.jpg" />
 
 - 💼 Có vấn đề xin liên hệ với nhóm tôi [email](mailto:trunghungpq456@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
