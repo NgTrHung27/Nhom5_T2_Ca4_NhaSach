@@ -21,9 +21,7 @@ Implement basic funtions for  blog
 hi, i'm Nhóm 5_T2_Ca4_Test, Đây là btap gửi thầy khoa
 Hy vọng được 10 điểm eheheh
 
-<a href="[https://www.linkedin.com](https://prnt.sc/Ok9qUAU9fou2)">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://prnt.sc/Ok9qUAU9fou2" />
 
 - 💼 Có vấn đề xin liên hệ với nhóm tôi [email](mailto:trunghungpq456@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
