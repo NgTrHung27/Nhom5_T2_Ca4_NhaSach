@@ -32,10 +32,8 @@ eheheh
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-
-
-
+<br />
+<br />
 
 ```text
 TypeScript   9 hrs 43 mins   ████████████████████▒░░░░   81.60 %
