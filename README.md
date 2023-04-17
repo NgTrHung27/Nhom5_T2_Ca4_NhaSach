@@ -17,8 +17,7 @@ Implement basic funtions for  blog
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
-
-hi, i'm Nhóm 5_T2_Ca4_Test, Đây là btap gửi thầy Khoa
+Nhóm 5_T2_Ca4_Test, btap gửi thầy Khoa
 eheheh
 
  <img align="left" width="220px" src="https://i.imgur.com/KVtlCFJ.jpg" />
