@@ -18,8 +18,8 @@ Implement basic funtions for  blog
 
 <br />
 
-hi, i'm Nhóm 5_T2_Ca4_Test, Đây là btap gửi thầy khoa
-Hy vọng được 10 điểm eheheh
+hi, i'm Nhóm 5_T2_Ca4_Test, Đây là btap gửi thầy Khoa
+eheheh
 
  <img align="left" width="220px" src="https://i.imgur.com/KVtlCFJ.jpg" />
 
